@@ -2,3 +2,6 @@
 [submodule "gaap-2024-client"]
 	path = gaap-2024-client
 	url = https://github.com/dlsl-jpcs/gaap-2024-client.git
+[submodule "gaap-2024-server"]
+	path = gaap-2024-server
+	url = https://github.com/dlsl-jpcs/gaap-2024-server.git
